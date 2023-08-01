@@ -9,7 +9,7 @@
 
 | Параметр          | Версия на Intel                                                                                                                                       | Версия на AMD (моя)                                                                                                                               |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Модель            | [ Magicbook Pro HBL-W19L](https://www.dns-shop.ru/product/229d9d66173f3332/161-noutbuk-honor-magicbook-pro-hbb-wah9phnl-serebristyj/characteristics/) | [Magicbook Pro 2020 HLYL-WFQ9](https://www.dns-shop.ru/product/d3018b54e5d03332/161-noutbuk-honor-magicbook-pro-hlyl-wfq9-seryj/characteristics/) |
+| Модель            | [ Magicbook Pro 2020 HBL-W19L](https://www.dns-shop.ru/product/229d9d66173f3332/161-noutbuk-honor-magicbook-pro-hbb-wah9phnl-serebristyj/characteristics/) | [Magicbook Pro 2020 HLYL-WFQ9](https://www.dns-shop.ru/product/d3018b54e5d03332/161-noutbuk-honor-magicbook-pro-hlyl-wfq9-seryj/characteristics/) |
 | CPU1              | Intel Whiskey Lake i3-8145U & i5 8265U & i7-8565U                                                                                                     | AMD Ryzen 5 4600H                                                                                                                                 |
 | CPU2              | Intel Comet Lake i5-10210u & i7-10710U                                                                                                                |                                                                                                                                                   |
 | RAM               | DDR4 2666 МГц 8 Гб                                                                                                                                    | DDR4 2666 МГц 16 Гб                                                                                                                               |
@@ -46,10 +46,9 @@
 
 Присоединяйтесь к группе за 9,9 юаней на номер 963407871.
 
-> Курс 9,9 юаней к рублю (с округлением до одногорубля):
->
-> -  31 июля 2023 г. — 128 рублей
-> -  10 июня 2020 г. — 100 рублей (последнее редактирвоание README)
+> Курс 9,9 юаней к рублю (с округлением до одного рубля):
+> -  128 рублей — 31 июля 2023 г. 
+> -  100 рублей — 10 июня 2020 г. (последнее редактирвоание README)
 
 **✅ В группе уже есть встроенный тестовый драйвер Intel Wi-Fi и в его ежедневном использовании нет ничего плохого.**
 
@@ -75,21 +74,21 @@
 
 ### Обновления OpenCore
 
-– 2022.6.10 v8.1 Release только для Monterey
+#### 2022.6.10 v8.1 Release только для Monterey
 
 1. Обновление до версии OpenCore 0.8.1
 2. Поскольку конфигуратор Opencore еще не адаптирован к версии 0.8.1, пожалуйста, нажмите настройки в левом верхнем углу при его использовании. На второй странице измените атрибут версии на версию разработки 0.8.1!
 3. Адаптация к официальной версии macOS Monterey 12.4 21F79
 4. Исправлены проблемы с загрузочной картой и заставкой, с которыми сталкивались некоторые друзья по группе
 
-– 2022.4.23 v8.0 Release только для Monterey
+#### 2022.4.23 v8.0 Release только для Monterey
 
 1. Обновление до версии OpenCore 0.8.0
 2. Обновите пакет семейства драйверов
 3. Адаптация к официальной версии macOS Monterey 12.3.1 21E258
 4. Некоторые корректировки деталей
 
-– 2022.1.15 v6.7 Release только для Monterey
+#### 2022.1.15 v6.7 Release только для Monterey
 
 1. Обновление до версии OpenCore 0.7.7 Release
 2. Обновите пакет семейства драйверов
@@ -97,59 +96,59 @@
 4. Обновите драйвер Bluetooth до IntelBluetoothFirmware-v2.1.0-stable
 5. Адаптирован к MacOS Monterey 12.1 21C52 (Официальная версия)
 
-– 2021.11.11 v6.5 Release только для Monterey
+#### 2021.11.11 v6.5 Release только для Monterey
 
 1. Обновление до версии OpenCore 0.7.5 Release
 2. Обновите пакет семейства драйверов
 3. Адаптирован MacOS Monterey 12.0.1 21A559 (Официальная версия)
 
-– 2021.10.9 v6.4 Release for Big Sur Only
+#### 2021.10.9 v6.4 Release for Big Sur Only
 
 1. Обновление до версии OpenCore 0.7.4 Release
 2. Обновите пакет семейства драйверов
 
-– 2021.9.14 v6.3 Release for Big Sur Only
+#### 2021.9.14 v6.3 Release for Big Sur Only
 
 1. Обновление до версии OpenCore 0.7.3 Release
 2. Обновите пакет семейства драйверов
 3. Обновите драйвер Wi-Fi до Airportitlwm-v2.0.0-stable– 20210807
 4. Адаптирован MacOS Big Sur 11.6 20EG165 (Официальная версия)
 
-– 2021.8.8 v6.2 Release for Big Sur Only
+#### 2021.8.8 v6.2 Release for Big Sur Only
 
 1. Обновление до версии OpenCore 0.7.2 Release
 2. Обновите пакет семейства драйверов
 3. Обновите драйвер Wi-Fi до Airportitlwm-v2.0.0– 20210807
 4. Адаптирован MacOS Big Sur 11.5.1 20G80 (Официальная версия)
 
-– 2021.7.11 v6.1.1 Release
+#### 2021.7.11 v6.1.1 Release
 
 1. Обновление до версии OpenCore 0.7.1 Release
 2. Обновите пакет семейства драйверов
 3. Обновите драйвер Wi-Fi до Airportitlwm-v1.3.0-stable
 4. Адаптирован MacOS Big Sur 11.5 20G71 (Официальная версия)
 
-– 2021.6.10 v6.0 Release for Big Sur Only
+#### 2021.6.10 v6.0 Release for Big Sur Only
 
 1. Обновление до версии OpenCore 0.7.0 Release
 2. Обновите пакет семейства драйверов
 3. Адаптирован MacOS Big Sur 11.4 20F71 (Официальная версия)
 4. Обновите драйвер Wi-Fi до Airportitlwm-v2.0.0– 20210608
 
-– 2021.5.5 v5.9 Release for Big Sur Only
+#### 2021.5.5 v5.9 Release for Big Sur Only
 
 1. Обновление до версии OpenCore 0.6.9 Release
 2. Обновите пакет семейства драйверов
 3. Адаптирован MacOS Big Sur 11.3.1 20E241 (Официальная версия)
 4. 使用 Airportitlwm-v2.0.0-Alpha，大幅提升网速(理论上可以跑满 1000M)
 
-– 2021.4.8 v5.8 Release for Big Sur Only
+#### 2021.4.8 v5.8 Release for Big Sur Only
 
 1. Обновление до версии OpenCore 0.6.8 Release
 2. Обновите пакет семейства драйверов
 3. Адаптирован MacOS Big Sur 11.2.3 20D91 (Официальная версия)
 
-– 2021.3.3 v5.7 Release for Big Sur Only
+#### 2021.3.3 v5.7 Release for Big Sur Only
 
 1. Обновление до версии OpenCore 0.6.7 Release
 2. Обновите пакет семейства драйверов
@@ -208,7 +207,7 @@
 
 ### Обновление Clover
 
-– 2020.4.7 v3.4 Release
+#### 2020.4.7 v3.4 Release
 
 1. Модифицировать USBports связанный，удалить USBpower
 2. Обновите все драйверы (Lilu, AppleALC, Nvmefix и т.д.)
